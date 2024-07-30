@@ -1,3 +1,5 @@
+# This repository has been ported to an employer workspace and is no longer maintained.
+# Please refer to: https://github.com/MultipathogenGenomics/castanet
 ```
  _____           _                   _
 /  __ \         | |                 | |
